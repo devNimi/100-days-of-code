@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 1: July 29, SSaturday
+
+**Today's Progress**: Implemented Web Worker in my Udacity's nd quiz. 
+
+**Thoughts** It was not that scary as it seemed. Instead of postponing things that looks scary, just take a small break (not days) and get back to them ASAP because you know what they, they are easy :)
+
+**Link(s) to work**
+1. [Web Worker Quiz](https://github.com/devNimi/web-workers-demo)
+
+
+
+
+
+
+
+
+---------------------
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
